@@ -1,3 +1,5 @@
 export default {
-    created: {}
+    created: {
+        console.log('fucker');
+    }
 }
