@@ -1,0 +1,23 @@
+{
+  "name": "vue-logger",
+  "version": "2.0.0",
+  "description": "for vuejs, based on vuejs@2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tongyimplin/vue-logger.git"
+  },
+  "keywords": [
+    "vuejs",
+    "logger"
+  ],
+  "author": "jafar.tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tongyimplin/vue-logger/issues"
+  },
+  "homepage": "https://github.com/tongyimplin/vue-logger#readme"
+}
